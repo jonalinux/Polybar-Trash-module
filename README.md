@@ -1,8 +1,7 @@
 # Polybar-Trash-module
-Module for Polybar
-![Screenshot from 2022-04-26 09-32-57](https://user-images.githubusercontent.com/103053714/165258215-14c58062-bc95-434f-8f2e-150dc2868406.png)
-![Screenshot from 2022-04-26 09-34-13](https://user-images.githubusercontent.com/103053714/165258220-665e76ce-c518-43a9-986c-ba1c223af7bb.png)
+Module trash for Polybar
 
+![Screenshot from 2022-04-27 16-05-31](https://user-images.githubusercontent.com/103053714/165590944-1950ce37-c917-470f-b251-c7777ae5efb4.png)
+![Screenshot from 2022-04-27 18-57-55](https://user-images.githubusercontent.com/103053714/165590957-f12436cb-721c-4ee6-9ec5-854eb82bb34f.png)
+![Screenshot from 2022-04-27 18-59-54](https://user-images.githubusercontent.com/103053714/165590960-9f6a261a-ced5-46d5-a500-b5dc6bb93ae9.png)
 
-
-![Screenshot from 2022-04-26 09-40-19](https://user-images.githubusercontent.com/103053714/165259444-3e3916ef-9e4d-4e1f-87d0-f3b414d1774d.png)
